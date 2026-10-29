@@ -1,0 +1,7 @@
+# .gitignore
+exportacoes/
+*.zip
+*.tar.gz
+>50MB
+.venv
+.DS_Store
